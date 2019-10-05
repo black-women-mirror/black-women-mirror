@@ -57,6 +57,10 @@
 <lastmod>2018-06-12T00:00:00-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/amazon-benin/</loc>
+<lastmod>2019-10-04T00:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -78,6 +82,15 @@
 <loc>http://localhost:4000/category/web-development/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/category/leader/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/guerri%C3%A8re/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page3/</loc>
 </url>
 </urlset>
