@@ -3,7 +3,7 @@ layout: post
 title:  "Yaa Asantewaa"
 author: Danie
 categories: [ leader, guerrière ]
-image: assets/images/women/yaa-asantewa.jpeg
+image: assets/images/women/yaa-asantewaa.jpeg
 featured: true
 hidden: false
 ---
