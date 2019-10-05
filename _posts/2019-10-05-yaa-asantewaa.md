@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yaa Asantewaa"
-author: Danie
+author: danie
 categories: [ leader, guerrière ]
 image: assets/images/women/yaa-asantewaa.jpeg
 featured: true
